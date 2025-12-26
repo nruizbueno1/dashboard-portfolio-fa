@@ -1,4 +1,4 @@
-These dashboards were created to review different customer metrics.
+These dashboards were created to review different customer metrics. Client information has been ommitted.
 
 - The first dashboard compares metrics such as ROAS, new customers, and the revenue attributed to them. It also breaks down daily new customer sales versus marketing spend in a combo chart.
 - The second dashboard breaks down month-over-month churn and growth rates. This analysis goes a step further by showing the total number of clients, as well as the total number that churned or joined — not just percentages.
